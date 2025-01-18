@@ -1,1 +1,1 @@
-#Tutorial for django rest framework
+# Tutorial for django rest framework
